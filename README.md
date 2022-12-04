@@ -18,3 +18,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Cadastro de paciente
 - [x] Requisitar pacientes cadastrados
 - [x] Remoção de informação de paciente
+- [x] Calculo do IMC
