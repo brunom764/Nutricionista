@@ -12,3 +12,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - HTML 5
 - CSS 3
 - JavaScript
+
+### 🏁 Features
+
+- [x] Cadastro de paciente
+- [x] Requisitar pacientes cadastrados
+- [x] Remoção de informação de paciente
