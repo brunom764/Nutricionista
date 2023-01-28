@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### 🏁 Features
 
 - [x] Cadastro de paciente
-- [x] Requisitar pacientes cadastrados no banco de dados
+- [x] Requisitar por api pacientes cadastrados no banco de dados
 - [x] Remoção de informação de paciente
 - [x] Calculo do IMC
 - [x] Filtro para busca de nomes
